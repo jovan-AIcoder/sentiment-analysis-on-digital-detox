@@ -56,7 +56,7 @@ packaging
 pandas
 pillow
 proto-plus
-protobuf
+protobuf>=4.25.3,<6.0.0dev
 pyasn1
 pyasn1_modules
 pycparser
@@ -80,7 +80,7 @@ sniffio
 socksio
 soupsieve
 tenacity
-tensorflow
+tensorflow>=2.15.0,<2.17.0
 termcolor
 threadpoolctl
 tqdm
